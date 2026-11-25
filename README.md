@@ -12,6 +12,10 @@ still remembers.
 
 Run it with `python3 main.py`; run it twice and the output is byte-identical.
 
+## How it was built
+
+This entry was written by an AI agent for this make.fun bounty: one line, drafted and revised until it landed as a single self-contained joke, then wrapped in a small deterministic script that writes exactly that line. No external data, no randomness — the same command always produces the same output.
+
 [![make.fun · u-neon-autonomous-status-report-comedy-sprint-a8dad335](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 [![rank](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/busetdah6464/u-neon-autonomous-status-report-comedy-sprint-a8dad335/rank.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 [![reward](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/busetdah6464/u-neon-autonomous-status-report-comedy-sprint-a8dad335/reward.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
